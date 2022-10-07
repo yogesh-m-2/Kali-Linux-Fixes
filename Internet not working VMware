@@ -1,3 +1,3 @@
-Fix: sudo nano /etc/hosts
+Fix: sudo nano /etc/resolv.conf
 
 Add line : 127.0.0.1     localhost
